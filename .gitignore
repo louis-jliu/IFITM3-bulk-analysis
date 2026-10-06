@@ -1,0 +1,18 @@
+# outputs of the scripts
+output/
+
+# ROSMAP snRNA-seq: AD Knowledge Portal data use agreement, do not redistribute
+data/rosmap/
+*.h5ad
+
+# journal supplementary file (only needed to rebuild data/gene_programs/*.tsv)
+data/gene_programs/*.xlsx
+
+# local notes
+TODO_before_release.md
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,73 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below and this software release."
+title: "IFITM3-bulk-analysis: analysis code for 'The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease'"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Jinrui
+    alias: Louis Liu
+    orcid: "https://orcid.org/0000-0003-0778-4701"
+    affiliation: "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center"
+version: 1.0.0
+date-released: "2026-10-06"
+license: MIT
+repository-code: "https://github.com/louis-jliu/IFITM3-bulk-analysis"
+abstract: >-
+  Code and data for the bulk RNA-seq interaction analysis (DESeq2, Ifitm3 knockout x 5xFAD),
+  gene set enrichment analysis (fgsea) and human microglial gene program meta-analysis
+  (ROSMAP snRNA-seq) in the Nature Aging manuscript "The innate immunity protein IFITM3
+  modulates microglial states in Alzheimer's disease". Reproduces Fig. 2h-k,
+  Extended Data Fig. 2g and Fig. 5e.
+keywords:
+  - Alzheimer's disease
+  - IFITM3
+  - microglia
+  - 5xFAD
+  - RNA-seq
+  - DESeq2
+  - GSEA
+preferred-citation:
+  type: article
+  title: "The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease"
+  journal: "Nature Aging"
+  status: submitted
+  year: 2026
+  authors:
+    - {family-names: Jain, given-names: Tanya}
+    - {family-names: Frost, given-names: Georgia R.}
+    - {family-names: Hur, given-names: Ji-Yeun}
+    - {family-names: Chang, given-names: Jerry C.}
+    - {family-names: Wong, given-names: Eitan}
+    - {family-names: Liu, given-names: Chenge}
+    - {family-names: Nikain, given-names: Cyrus}
+    - {family-names: Kehs, given-names: Zoe}
+    - {family-names: Cross, given-names: Abigail C.}
+    - {family-names: Li, given-names: Thomas}
+    - {family-names: Jonas, given-names: Lauren A.}
+    - {family-names: Liu, given-names: Louis, orcid: "https://orcid.org/0000-0003-0778-4701"}
+    - {family-names: Niu, given-names: Xiang}
+    - {family-names: Schlachetzki, given-names: Johannes}
+    - {family-names: Gorodetski, given-names: Lilach}
+    - {family-names: Lim, given-names: Wei Ling}
+    - {family-names: Yu, given-names: Gefei}
+    - {family-names: Wang, given-names: Minghui}
+    - {family-names: Zhou, given-names: Xianxiao}
+    - {family-names: Wang, given-names: Wei}
+    - {family-names: Li, given-names: Fuhai}
+    - {family-names: Sanford, given-names: Jessie}
+    - {family-names: Khobrekar, given-names: Noopur V.}
+    - {family-names: Evangelisti, given-names: Alessandro}
+    - {family-names: Sole Domenech, given-names: Santiago}
+    - {family-names: Miloushev, given-names: Vesselin Z.}
+    - {family-names: Funk, given-names: Cory}
+    - {family-names: Mazutis, given-names: Linas}
+    - {family-names: Lekaye, given-names: Carl}
+    - {family-names: Zou, given-names: Yimin}
+    - {family-names: Glass, given-names: Christopher K.}
+    - {family-names: Keshari, given-names: Kayvan R.}
+    - {family-names: Cruchaga, given-names: Carlos}
+    - {family-names: Zhang, given-names: Bin}
+    - {family-names: Dey, given-names: Kushal}
+    - {family-names: Leslie, given-names: Christina}
+    - {family-names: Studer, given-names: Lorenz}
+    - {family-names: Li, given-names: Yue-Ming}

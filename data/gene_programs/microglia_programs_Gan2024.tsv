@@ -1,0 +1,854 @@
+program	source_gene_set	gene_mouse	gene
+ATM	ATM	Spp1	SPP1
+ATM	ATM	Gpnmb	GPNMB
+ATM	ATM	Igf1	IGF1
+ATM	ATM	Lgals3	LGALS3
+ATM	ATM	Cd9	CD9
+ATM	ATM	Fabp5	FABP5
+ATM	ATM	Lpl	LPL
+ATM	ATM	Syngr1	SYNGR1
+ATM	ATM	Pld3	PLD3
+ATM	ATM	Ctsl	CTSL
+ATM	ATM	Lgals1	LGALS1
+ATM	ATM	Lilrb4A	LILRB4A
+ATM	ATM	Ccl9	CCL9
+ATM	ATM	Anxa5	ANXA5
+ATM	ATM	Gm1673	GM1673
+ATM	ATM	Csf1	CSF1
+ATM	ATM	Cd63	CD63
+ATM	ATM	Gm10116	GM10116
+ATM	ATM	Anxa2	ANXA2
+ATM	ATM	Apoe	APOE
+ATM	ATM	Lag3	LAG3
+ATM	ATM	Ctsb	CTSB
+ATM	ATM	S100a1	S100A1
+ATM	ATM	Ccl6	CCL6
+ATM	ATM	Fabp3	FABP3
+ATM	ATM	Lyz2	LYZ2
+ATM	ATM	Gpx3	GPX3
+ATM	ATM	Plin2	PLIN2
+ATM	ATM	Cstb	CSTB
+ATM	ATM	Plaur	PLAUR
+ATM	ATM	Folr2	FOLR2
+ATM	ATM	Aplp2	APLP2
+ATM	ATM	Ftl1	FTL1
+ATM	ATM	Vat1	VAT1
+ATM	ATM	Gng12	GNG12
+ATM	ATM	Mif	MIF
+ATM	ATM	Pkm	PKM
+ATM	ATM	Hpse	HPSE
+ATM	ATM	Fam20C	FAM20C
+ATM	ATM	Ldha	LDHA
+ATM	ATM	Atp6v0d2	ATP6V0D2
+ATM	ATM	Tmem106a	TMEM106A
+ATM	ATM	Gpr137b	GPR137B
+ATM	ATM	Apoc1	APOC1
+ATM	ATM	Tpi1	TPI1
+ATM	ATM	Ctsz	CTSZ
+ATM	ATM	Lamp1	LAMP1
+ATM	ATM	Ccl3	CCL3
+ATM	ATM	Ifitm2	IFITM2
+ATM	ATM	Sepw1	SEPW1
+ATM	ATM	Slpi	SLPI
+ATM	ATM	Adssl1	ADSSL1
+ATM	ATM	Cd68	CD68
+ATM	ATM	Aig1	AIG1
+ATM	ATM	Ybx1	YBX1
+ATM	ATM	Dpp7	DPP7
+ATM	ATM	Slc16a3	SLC16A3
+ATM	ATM	Ctsa	CTSA
+ATM	ATM	Bnip3	BNIP3
+ATM	ATM	Npc2	NPC2
+ATM	ATM	Pgk1	PGK1
+ATM	ATM	Sepp1	SEPP1
+ATM	ATM	Timp2	TIMP2
+ATM	ATM	Sh3bgrl	SH3BGRL
+ATM	ATM	Eno1b	ENO1B
+ATM	ATM	Itgax	ITGAX
+ATM	ATM	Crip1	CRIP1
+ATM	ATM	Creg1	CREG1
+ATM	ATM	Psmb6	PSMB6
+ATM	ATM	Gatm	GATM
+ATM	ATM	Aprt	APRT
+ATM	ATM	X0610012g03rik	X0610012G03RIK
+ATM	ATM	Uap1l1	UAP1L1
+ATM	ATM	Gnas	GNAS
+ATM	ATM	Chchd10	CHCHD10
+ATM	ATM	Ank	ANK
+ATM	ATM	Plek	PLEK
+ATM	ATM	Uba52	UBA52
+ATM	ATM	Npl	NPL
+ATM	ATM	Ctsd	CTSD
+ATM	ATM	Atp1a1	ATP1A1
+ATM	ATM	Eno1	ENO1
+ATM	ATM	Dab2	DAB2
+ATM	ATM	Ramp1	RAMP1
+ATM	ATM	Clta	CLTA
+ATM	ATM	Wbp5	WBP5
+ATM	ATM	Gpi1	GPI1
+ATM	ATM	Cyba	CYBA
+ATM	ATM	Vps29	VPS29
+ATM	ATM	Edem1	EDEM1
+ATM	ATM	Emp3	EMP3
+ATM	ATM	Cd28	CD28
+ATM	ATM	C3Ar1	C3AR1
+ATM	ATM	Gusb	GUSB
+ATM	ATM	Dtnbp1	DTNBP1
+ATM	ATM	Glmp	GLMP
+ATM	ATM	Spcs2	SPCS2
+ATM	ATM	Fabp3-ps1	FABP3-PS1
+ATM	ATM	Gabarap	GABARAP
+ATM	ATM	Bri3	BRI3
+ATM	ATM	Akr1a1	AKR1A1
+ATM	ATM	Alas1	ALAS1
+ATM	ATM	Lmo2	LMO2
+ATM	ATM	Degs1	DEGS1
+IRM	IRM	Apoe	APOE
+IRM	IRM	Ifi27l2a	IFI27L2A
+IRM	IRM	Ifitm3	IFITM3
+IRM	IRM	Ccl12	CCL12
+IRM	IRM	Ccl4	CCL4
+IRM	IRM	Lgals3bp	LGALS3BP
+IRM	IRM	Cst7	CST7
+IRM	IRM	Cd52	CD52
+IRM	IRM	Bst2	BST2
+IRM	IRM	H2-d1	H2-D1
+IRM	IRM	Lpl	LPL
+IRM	IRM	Ccl3	CCL3
+IRM	IRM	Ifit3	IFIT3
+IRM	IRM	Isg15	ISG15
+IRM	IRM	Ifi204	IFI204
+IRM	IRM	H2-k1	H2-K1
+IRM	IRM	Irf7	IRF7
+IRM	IRM	Cxcl10	CXCL10
+IRM	IRM	Oasl2	OASL2
+IRM	IRM	Rtp4	RTP4
+IRM	IRM	Ccl5	CCL5
+IRM	IRM	B2m	B2M
+IRM	IRM	Lyz2	LYZ2
+IRM	IRM	Rps28	RPS28
+IRM	IRM	Rps29	RPS29
+IRM	IRM	Rpl41	RPL41
+IRM	IRM	Ctsb	CTSB
+IRM	IRM	Spp1	SPP1
+IRM	IRM	Ch25h	CH25H
+IRM	IRM	Gm10076	GM10076
+IRM	IRM	Slfn2	SLFN2
+IRM	IRM	H2-q7	H2-Q7
+IRM	IRM	Zfos1	ZFOS1
+IRM	IRM	Tspo	TSPO
+IRM	IRM	Stat1	STAT1
+IRM	IRM	Cd72	CD72
+IRM	IRM	Rpl32	RPL32
+IRM	IRM	Rpl10a	RPL10A
+IRM	IRM	Rpl37a	RPL37A
+IRM	IRM	Usp18	USP18
+IRM	IRM	Ccl2	CCL2
+IRM	IRM	Rpl38	RPL38
+IRM	IRM	Axl	AXL
+IRM	IRM	Cd63	CD63
+IRM	IRM	Tor3a	TOR3A
+IRM	IRM	Rps19	RPS19
+IRM	IRM	Rpl36	RPL36
+IRM	IRM	Phf11b	PHF11B
+IRM	IRM	Rpl35	RPL35
+IRM	IRM	Rpl39	RPL39
+IRM	IRM	Rpl23	RPL23
+IRM	IRM	Mif	MIF
+IRM	IRM	Rps16	RPS16
+IRM	IRM	Oas1a	OAS1A
+IRM	IRM	Uba52	UBA52
+IRM	IRM	Ifit2	IFIT2
+IRM	IRM	Zbp1	ZBP1
+IRM	IRM	Rps26	RPS26
+IRM	IRM	Rsad2	RSAD2
+IRM	IRM	Cd83	CD83
+IRM	IRM	Gm4951	GM4951
+IRM	IRM	Rpl37	RPL37
+IRM	IRM	Trim30a	TRIM30A
+IRM	IRM	Rps18	RPS18
+IRM	IRM	Sp100	SP100
+IRM	IRM	Rps20	RPS20
+IRM	IRM	Ly6e	LY6E
+IRM	IRM	Rps24	RPS24
+IRM	IRM	Fau	FAU
+IRM	IRM	Fcgr4	FCGR4
+IRM	IRM	Rps12	RPS12
+IRM	IRM	Ly6a	LY6A
+IRM	IRM	Parp14	PARP14
+IRM	IRM	Rpl19	RPL19
+IRM	IRM	Rps15a	RPS15A
+IRM	IRM	Rps27a	RPS27A
+IRM	IRM	Ifit1	IFIT1
+IRM	IRM	Rpl24	RPL24
+IRM	IRM	Grn	GRN
+IRM	IRM	Rpsa	RPSA
+IRM	IRM	Rps27rt	RPS27RT
+IRM	IRM	Npc2	NPC2
+IRM	IRM	Gm9843	GM9843
+IRM	IRM	Rps27	RPS27
+IRM	IRM	Xaf1	XAF1
+IRM	IRM	Rpl12	RPL12
+IRM	IRM	Rpl26	RPL26
+IRM	IRM	Rps2	RPS2
+IRM	IRM	Wdr89	WDR89
+IRM	IRM	Rpl28	RPL28
+IRM	IRM	Rps21	RPS21
+IRM	IRM	Ccl6	CCL6
+IRM	IRM	Rpl35a	RPL35A
+IRM	IRM	Rplp2	RPLP2
+IRM	IRM	Rpl22l1	RPL22L1
+IRM	IRM	Gm2000	GM2000
+IRM	IRM	Rps11	RPS11
+IRM	IRM	Rpl36a	RPL36A
+IRM	IRM	Cxcl13	CXCL13
+IRM	IRM	Apoc1	APOC1
+IRM	IRM	H2-q4	H2-Q4
+IRM	IRM	Sdc3	SDC3
+IRM	IRM	Fth1	FTH1
+IRM	IRM	Rpl29	RPL29
+IRM	IRM	Ftl1	FTL1
+IRM	IRM	Ctsl	CTSL
+IRM	IRM	Rps5	RPS5
+IRM	IRM	Rpl31	RPL31
+IRM	IRM	Rps25	RPS25
+IRM	IRM	Stat2	STAT2
+IRM	IRM	Rps8	RPS8
+IRM	IRM	Rps15	RPS15
+IRM	IRM	Rpl27a	RPL27A
+IRM	IRM	Rps10	RPS10
+IRM	IRM	Rpl34	RPL34
+IRM	IRM	Gnas	GNAS
+IRM	IRM	Ai607873	AI607873
+IRM	IRM	Rps14	RPS14
+IRM	IRM	Mnda	MNDA
+IRM	IRM	Rplp0	RPLP0
+IRM	IRM	Cxcl16	CXCL16
+IRM	IRM	Ctsz	CTSZ
+IRM	IRM	Rps13	RPS13
+IRM	IRM	Rpl18a	RPL18A
+IRM	IRM	Rps23	RPS23
+IRM	IRM	Rpl9	RPL9
+IRM	IRM	Mx1	MX1
+IRM	IRM	Rpl21	RPL21
+IRM	IRM	Pyhin1	PYHIN1
+IRM	IRM	Rpl17	RPL17
+IRM	IRM	Rpl22	RPL22
+IRM	IRM	Rps7	RPS7
+IRM	IRM	Psme1	PSME1
+IRM	IRM	Tpt1	TPT1
+IRM	IRM	Rpl15	RPL15
+IRM	IRM	Phf11d	PHF11D
+IRM	IRM	Gm4955	GM4955
+IRM	IRM	Rpl27	RPL27
+IRM	IRM	Rps6	RPS6
+IRM	IRM	Rpl7a	RPL7A
+IRM	IRM	Fgl2	FGL2
+IRM	IRM	Ms4a4c	MS4A4C
+IRM	IRM	Rps17	RPS17
+IRM	IRM	Rpl13a	RPL13A
+IRM	IRM	Gapdh	GAPDH
+IRM	IRM	Rpl6	RPL6
+IRM	IRM	Gnb2l1	GNB2L1
+IRM	IRM	Sepw1	SEPW1
+IRM	IRM	Ifit3b	IFIT3B
+IRM	IRM	Rpl30	RPL30
+IRM	IRM	Rpl13	RPL13
+IRM	IRM	Rpl23a	RPL23A
+IRM	IRM	Rpl18	RPL18
+IRM	IRM	Tap1	TAP1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Ccl3	CCL3
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Ccl2	CCL2
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Adamts1	ADAMTS1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Ctsl	CTSL
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Csf1	CSF1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Il1a	IL1A
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Il1rl2	IL1RL2
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Adrb1	ADRB1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Hvcn1	HVCN1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Ccr5	CCR5
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Rgl1	RGL1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Atf3	ATF3
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Olfr110	OLFR110
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Kitl	KITL
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Tlr5	TLR5
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Ppm1l	PPM1L
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	C3ar1	C3AR1
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Myc	MYC
+TGFbeta-dependent	TGFβ-dependent (in vitro) downregulated	Large1	LARGE1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Sall1	SALL1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Bhlhe41	BHLHE41
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Gtf2h2	GTF2H2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Bin1	BIN1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Myo1b	MYO1B
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Bco2	BCO2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Ltc4s	LTC4S
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Spsb1	SPSB1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Hps4	HPS4
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Golm1	GOLM1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	St3gal6	ST3GAL6
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Pald1	PALD1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	B4galt4	B4GALT4
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Ak1	AK1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Arhgap5	ARHGAP5
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Agmo	AGMO
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Ctsf	CTSF
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Rilpl1	RILPL1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Hexb	HEXB
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Cryl1	CRYL1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Usp2	USP2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Mlph	MLPH
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Fscn1	FSCN1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Fgd2	FGD2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Sparc	SPARC
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Olfml3	OLFML3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Adamts16	ADAMTS16
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Pdgfa	PDGFA
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Plxdc2	PLXDC2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Cst3	CST3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Serpine2	SERPINE2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Pdgfb	PDGFB
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	P2ry12	P2RY12
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	P2ry13	P2RY13
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Gpr34	GPR34
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Csf3r	CSF3R
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tlr3	TLR3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Eng	ENG
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Slc2a5	SLC2A5
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Slco2b1	SLCO2B1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Slc24a3	SLC24A3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Atp8a2	ATP8A2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Kcnd1	KCND1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tgfβr1	TGFΒR1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tgfβr2	TGFΒR2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Siglech	SIGLECH
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tmem119	TMEM119
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Cd34	CD34
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	F11r	F11R
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Abi3	ABI3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Fcrls	FCRLS
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Lrrc3	LRRC3
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Ppp1r9a	PPP1R9A
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Rtn4rl1	RTN4RL1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Jam2	JAM2
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Cxxc5	CXXC5
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tspan7	TSPAN7
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Pmepa1	PMEPA1
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Itgb5	ITGB5
+TGFbeta-dependent	TGFβ-dependent (in vitro) upregulated	Tmem100	TMEM100
+TGFbeta-dependent	TGFβ-dependent (in vivo) downregulated	Cxcl16	CXCL16
+TGFbeta-dependent	TGFβ-dependent (in vivo) downregulated	Stab1	STAB1
+TGFbeta-dependent	TGFβ-dependent (in vivo) downregulated	Apoe	APOE
+TGFbeta-dependent	TGFβ-dependent (in vivo) downregulated	Axl	AXL
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Olfml3	OLFML3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tmem119	TMEM119
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Sall1	SALL1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	P2ry12	P2RY12
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Slc1a3	SLC1A3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Adamts1	ADAMTS1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Myo1b	MYO1B
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Bhlhe41	BHLHE41
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Atp8a2	ATP8A2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Golm1	GOLM1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tjp1	TJP1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Sall3	SALL3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Hexb	HEXB
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Adgrg1	ADGRG1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Rasgrp3	RASGRP3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Ctsd	CTSD
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Usp2	USP2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Plxdc2	PLXDC2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Il1a	IL1A
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Crybb1	CRYBB1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Rilpl1	RILPL1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	P2ry13	P2RY13
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Kcnd1	KCND1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Lrrc3	LRRC3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	F11r	F11R
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Cst3	CST3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Lag3	LAG3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Rtn4rl1	RTN4RL1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Cxxc5	CXXC5
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Gtf2h2	GTF2H2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Gpr34	GPR34
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tgfβ1	TGFΒ1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tgfβr1	TGFΒR1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Cx3cr1	CX3CR1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Fscn1	FSCN1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Trem2	TREM2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Ppm1l	PPM1L
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Npnt	NPNT
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Fcrls	FCRLS
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Mlph	MLPH
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Arhgap5	ARHGAP5
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Rapgef5	RAPGEF5
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tmem100	TMEM100
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Ltc4S	LTC4S
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Siglech	SIGLECH
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Syngr1	SYNGR1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Rhob	RHOB
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Hps4	HPS4
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Ebf3	EBF3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Itga6	ITGA6
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Jam2	JAM2
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Tmc7	TMC7
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Bin1	BIN1
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Eng	ENG
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Adora3	ADORA3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Abi3	ABI3
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Slc2a5	SLC2A5
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Pde3b	PDE3B
+TGFbeta-dependent	TGFβ-dependent (in vivo) upregulated	Epn2	EPN2
+DAM-program	DAM (core program)	Apoe	APOE
+DAM-program	DAM (core program)	Axl	AXL
+DAM-program	DAM (core program)	Clec7a	CLEC7A
+DAM-program	DAM (core program)	Cst7	CST7
+DAM-program	DAM (core program)	Cybb	CYBB
+DAM-program	DAM (core program)	Ctsb	CTSB
+DAM-program	DAM (core program)	Ctsd	CTSD
+DAM-program	DAM (core program)	Ctsl	CTSL
+DAM-program	DAM (core program)	Il1b	IL1B
+DAM-program	DAM (core program)	Itgax	ITGAX
+DAM-program	DAM (core program)	Lgals3	LGALS3
+DAM-program	DAM (core program)	Lilrb4	LILRB4
+DAM-program	DAM (core program)	Lpl	LPL
+DAM-program	DAM (core program)	Nos2	NOS2
+DAM-program	DAM (core program)	Spp1	SPP1
+DAM-program	DAM (core program)	Trem2	TREM2
+DAM-program	DAM (core program)	Tyrobp	TYROBP
+DAM-program	DAM	Itgax	ITGAX
+DAM-program	DAM	Cst7	CST7
+DAM-program	DAM	Fam20c	FAM20C
+DAM-program	DAM	Ccl4	CCL4
+DAM-program	DAM	Csf1	CSF1
+DAM-program	DAM	5430435g22rik	5430435G22RIK
+DAM-program	DAM	Ccl3	CCL3
+DAM-program	DAM	Clec7a	CLEC7A
+DAM-program	DAM	Baiap2l2	BAIAP2L2
+DAM-program	DAM	Lpl	LPL
+DAM-program	DAM	Ank	ANK
+DAM-program	DAM	Cox6a2	COX6A2
+DAM-program	DAM	Spp1	SPP1
+DAM-program	DAM	Axl	AXL
+DAM-program	DAM	Igf1	IGF1
+DAM-program	DAM	Psat1	PSAT1
+DAM-program	DAM	Capg	CAPG
+DAM-program	DAM	Lyz2	LYZ2
+DAM-program	DAM	Apoe	APOE
+DAM-program	DAM	Lgi2	LGI2
+DAM-program	DAM	Nceh1	NCEH1
+DAM-program	DAM	H2-d1	H2-D1
+DAM-program	DAM	Cd83	CD83
+DAM-program	DAM	Fxyd5	FXYD5
+DAM-program	DAM	Apbb2	APBB2
+DAM-program	DAM	Dpp7	DPP7
+DAM-program	DAM	Ifi27l2b	IFI27L2B
+DAM-program	DAM	Cd63-ps	CD63-PS
+DAM-program	DAM	Mif	MIF
+DAM-program	DAM	Cadm1	CADM1
+DAM-program	DAM	Ccl6	CCL6
+DAM-program	DAM	Sulf2	SULF2
+DAM-program	DAM	Cd52	CD52
+DAM-program	DAM	Cd63	CD63
+DAM-program	DAM	Kcnj2	KCNJ2
+DAM-program	DAM	Myo1e	MYO1E
+DAM-program	DAM	Scpep1	SCPEP1
+DAM-program	DAM	Ramp1	RAMP1
+DAM-program	DAM	Aplp2	APLP2
+DAM-program	DAM	Rps24-ps3	RPS24-PS3
+DAM-program	DAM	Lgals3bp	LGALS3BP
+DAM-program	DAM	Cd34	CD34
+DAM-program	DAM	Slamf9	SLAMF9
+DAM-program	DAM	H2-k1	H2-K1
+DAM-program	DAM	Crlf2	CRLF2
+DAM-program	DAM	Ftl1	FTL1
+DAM-program	DAM	Gnas	GNAS
+DAM-program	DAM	Al928935.1	AL928935.1
+DAM-program	DAM	Bcl2a1b	BCL2A1B
+DAM-program	DAM	Gm6030	GM6030
+DAM-program	DAM	Cd9	CD9
+DAM-program	DAM	Ctsb	CTSB
+DAM-program	DAM	Cd74	CD74
+DAM-program	DAM	Serpine2	SERPINE2
+DAM-program	DAM	Cxcl16	CXCL16
+DAM-program	DAM	Gm16247	GM16247
+DAM-program	DAM	Gusb	GUSB
+DAM-program	DAM	Echs1	ECHS1
+DAM-program	DAM	Pld3	PLD3
+DAM-program	DAM	Gm7331	GM7331
+DAM-program	DAM	Gm7363	GM7363
+DAM-program	DAM	Gm5239	GM5239
+DAM-program	DAM	Rpl36a-ps1	RPL36A-PS1
+DAM-program	DAM	Ctsz	CTSZ
+DAM-program	DAM	Syngr1	SYNGR1
+DAM-program	DAM	Scd2	SCD2
+DAM-program	DAM	Npc2	NPC2
+DAM-program	DAM	Gm5805	GM5805
+DAM-program	DAM	Gm10136	GM10136
+DAM-program	DAM	Gm9493	GM9493
+DAM-program	DAM	Gm15772	GM15772
+DAM-program	DAM	Sdc3	SDC3
+DAM-program	DAM	Gm10186	GM10186
+DAM-program	DAM	Tyrobp	TYROBP
+DAM-program	DAM	Mir682	MIR682
+DAM-program	DAM	Naglu	NAGLU
+DAM-program	DAM	Gm13192	GM13192
+DAM-program	DAM	Mt1	MT1
+DAM-program	DAM	Rpl23	RPL23
+DAM-program	DAM	Gm10443	GM10443
+DAM-program	DAM	Ssr4	SSR4
+DAM-program	DAM	Gm13826	GM13826
+DAM-program	DAM	Atp6v0c	ATP6V0C
+DAM-program	DAM	Gm10279	GM10279
+DAM-program	DAM	Gm5963	GM5963
+DAM-program	DAM	Fth1	FTH1
+DAM-program	DAM	Gm5244	GM5244
+DAM-program	DAM	Hif1a	HIF1A
+LRRC33-dependent	LRRC33-dependent upregulated	Elavl4	ELAVL4
+LRRC33-dependent	LRRC33-dependent upregulated	Rnf128	RNF128
+LRRC33-dependent	LRRC33-dependent upregulated	Efnb2	EFNB2
+LRRC33-dependent	LRRC33-dependent upregulated	Crybb1	CRYBB1
+LRRC33-dependent	LRRC33-dependent upregulated	Yes1	YES1
+LRRC33-dependent	LRRC33-dependent upregulated	P2ry13	P2RY13
+LRRC33-dependent	LRRC33-dependent upregulated	Hps4	HPS4
+LRRC33-dependent	LRRC33-dependent upregulated	Gtf2h2	GTF2H2
+LRRC33-dependent	LRRC33-dependent upregulated	Rbfox1	RBFOX1
+LRRC33-dependent	LRRC33-dependent upregulated	B4galt4	B4GALT4
+LRRC33-dependent	LRRC33-dependent upregulated	Prox1	PROX1
+LRRC33-dependent	LRRC33-dependent upregulated	Olfml3	OLFML3
+LRRC33-dependent	LRRC33-dependent upregulated	F11r	F11R
+LRRC33-dependent	LRRC33-dependent upregulated	Adgrg1	ADGRG1
+LRRC33-dependent	LRRC33-dependent upregulated	Abcg2	ABCG2
+LRRC33-dependent	LRRC33-dependent upregulated	Sparc	SPARC
+LRRC33-dependent	LRRC33-dependent upregulated	Arhgap5	ARHGAP5
+LRRC33-dependent	LRRC33-dependent upregulated	Nuak1	NUAK1
+LRRC33-dependent	LRRC33-dependent upregulated	Rasgrp3	RASGRP3
+LRRC33-dependent	LRRC33-dependent upregulated	Mgll	MGLL
+LRRC33-dependent	LRRC33-dependent upregulated	Arsb	ARSB
+LRRC33-dependent	LRRC33-dependent upregulated	Sowahc	SOWAHC
+LRRC33-dependent	LRRC33-dependent upregulated	Arhgap32	ARHGAP32
+LRRC33-dependent	LRRC33-dependent upregulated	Itgb3	ITGB3
+LRRC33-dependent	LRRC33-dependent upregulated	Gpr34	GPR34
+LRRC33-dependent	LRRC33-dependent upregulated	Tom1l1	TOM1L1
+LRRC33-dependent	LRRC33-dependent upregulated	Ccr5	CCR5
+LRRC33-dependent	LRRC33-dependent upregulated	Rtn4rl1	RTN4RL1
+LRRC33-dependent	LRRC33-dependent upregulated	Il17ra	IL17RA
+LRRC33-dependent	LRRC33-dependent upregulated	Ppm1l	PPM1L
+LRRC33-dependent	LRRC33-dependent upregulated	Slc24a3	SLC24A3
+LRRC33-dependent	LRRC33-dependent upregulated	Sema4g	SEMA4G
+LRRC33-dependent	LRRC33-dependent upregulated	Zfp691	ZFP691
+LRRC33-dependent	LRRC33-dependent upregulated	Gna15	GNA15
+LRRC33-dependent	LRRC33-dependent upregulated	Tmem119	TMEM119
+LRRC33-dependent	LRRC33-dependent upregulated	Slc12a2	SLC12A2
+LRRC33-dependent	LRRC33-dependent upregulated	Siglech	SIGLECH
+LRRC33-dependent	LRRC33-dependent upregulated	Usp2	USP2
+LRRC33-dependent	LRRC33-dependent upregulated	Tgfa	TGFA
+LRRC33-dependent	LRRC33-dependent upregulated	Npnt	NPNT
+LRRC33-dependent	LRRC33-dependent upregulated	Zbtb18	ZBTB18
+LRRC33-dependent	LRRC33-dependent upregulated	Kcnd1	KCND1
+LRRC33-dependent	LRRC33-dependent upregulated	Pik3r5	PIK3R5
+LRRC33-dependent	LRRC33-dependent upregulated	Fcrl1	FCRL1
+LRRC33-dependent	LRRC33-dependent upregulated	Tlr3	TLR3
+LRRC33-dependent	LRRC33-dependent upregulated	A630033h20rik	A630033H20RIK
+LRRC33-dependent	LRRC33-dependent upregulated	Adamts16	ADAMTS16
+LRRC33-dependent	LRRC33-dependent upregulated	Il6st	IL6ST
+LRRC33-dependent	LRRC33-dependent upregulated	Sh2d3c	SH2D3C
+LRRC33-dependent	LRRC33-dependent upregulated	Havcr2	HAVCR2
+LRRC33-dependent	LRRC33-dependent upregulated	Myo6	MYO6
+LRRC33-dependent	LRRC33-dependent upregulated	Tjp1	TJP1
+LRRC33-dependent	LRRC33-dependent upregulated	Epb41l2	EPB41L2
+LRRC33-dependent	LRRC33-dependent upregulated	Selplg	SELPLG
+LRRC33-dependent	LRRC33-dependent upregulated	Tmem44	TMEM44
+LRRC33-dependent	LRRC33-dependent upregulated	Garnl3	GARNL3
+LRRC33-dependent	LRRC33-dependent upregulated	St3gal5	ST3GAL5
+LRRC33-dependent	LRRC33-dependent upregulated	Atp8a2	ATP8A2
+LRRC33-dependent	LRRC33-dependent upregulated	Gp9	GP9
+LRRC33-dependent	LRRC33-dependent upregulated	Abi3	ABI3
+LRRC33-dependent	LRRC33-dependent upregulated	Lrrc39	LRRC39
+LRRC33-dependent	LRRC33-dependent upregulated	Tmem204	TMEM204
+LRRC33-dependent	LRRC33-dependent upregulated	Abhd17c	ABHD17C
+LRRC33-dependent	LRRC33-dependent upregulated	Plxdc1	PLXDC1
+LRRC33-dependent	LRRC33-dependent upregulated	Slc2a5	SLC2A5
+LRRC33-dependent	LRRC33-dependent upregulated	Arhgap27	ARHGAP27
+LRRC33-dependent	LRRC33-dependent upregulated	Casc4	CASC4
+LRRC33-dependent	LRRC33-dependent upregulated	Fscn1	FSCN1
+LRRC33-dependent	LRRC33-dependent upregulated	Hvcn1	HVCN1
+LRRC33-dependent	LRRC33-dependent upregulated	Asph	ASPH
+LRRC33-dependent	LRRC33-dependent upregulated	Herc2	HERC2
+LRRC33-dependent	LRRC33-dependent upregulated	P2rx1	P2RX1
+LRRC33-dependent	LRRC33-dependent upregulated	Dtx4	DTX4
+LRRC33-dependent	LRRC33-dependent upregulated	Kif21b	KIF21B
+LRRC33-dependent	LRRC33-dependent upregulated	Nckap5l	NCKAP5L
+LRRC33-dependent	LRRC33-dependent upregulated	Susd3	SUSD3
+LRRC33-dependent	LRRC33-dependent upregulated	Col15a1	COL15A1
+LRRC33-dependent	LRRC33-dependent upregulated	Fmnl3	FMNL3
+LRRC33-dependent	LRRC33-dependent upregulated	Cd9	CD9
+LRRC33-dependent	LRRC33-dependent upregulated	Itgam	ITGAM
+LRRC33-dependent	LRRC33-dependent upregulated	Pfkfb3	PFKFB3
+LRRC33-dependent	LRRC33-dependent upregulated	Spint1	SPINT1
+LRRC33-dependent	LRRC33-dependent upregulated	Arsg	ARSG
+LRRC33-dependent	LRRC33-dependent upregulated	Lag3	LAG3
+LRRC33-dependent	LRRC33-dependent upregulated	Epha2	EPHA2
+LRRC33-dependent	LRRC33-dependent upregulated	Numb	NUMB
+LRRC33-dependent	LRRC33-dependent upregulated	Tmc7	TMC7
+LRRC33-dependent	LRRC33-dependent upregulated	Cxxc5	CXXC5
+LRRC33-dependent	LRRC33-dependent upregulated	Slc44a2	SLC44A2
+LRRC33-dependent	LRRC33-dependent upregulated	Tmem100	TMEM100
+LRRC33-dependent	LRRC33-dependent upregulated	Apbb2	APBB2
+LRRC33-dependent	LRRC33-dependent upregulated	Arhgef40	ARHGEF40
+LRRC33-dependent	LRRC33-dependent upregulated	Sall3	SALL3
+LRRC33-dependent	LRRC33-dependent upregulated	Skil	SKIL
+LRRC33-dependent	LRRC33-dependent upregulated	Whrn	WHRN
+LRRC33-dependent	LRRC33-dependent upregulated	Liph	LIPH
+LRRC33-dependent	LRRC33-dependent upregulated	Gem	GEM
+LRRC33-dependent	LRRC33-dependent upregulated	Ldlrad4	LDLRAD4
+LRRC33-dependent	LRRC33-dependent upregulated	Kcnip3	KCNIP3
+LRRC33-dependent	LRRC33-dependent upregulated	Tmem8c	TMEM8C
+LRRC33-dependent	LRRC33-dependent upregulated	Cd34	CD34
+LRRC33-dependent	LRRC33-dependent upregulated	Csf1	CSF1
+LRRC33-dependent	LRRC33-dependent upregulated	Gcnt2	GCNT2
+LRRC33-dependent	LRRC33-dependent upregulated	Thrsp	THRSP
+LRRC33-dependent	LRRC33-dependent upregulated	Il7r	IL7R
+LRRC33-dependent	LRRC33-dependent upregulated	Gdf15	GDF15
+LRRC33-dependent	LRRC33-dependent upregulated	Gadd45β	GADD45Β
+LRRC33-dependent	LRRC33-dependent upregulated	Endod1	ENDOD1
+LRRC33-dependent	LRRC33-dependent upregulated	Upk1b	UPK1B
+LRRC33-dependent	LRRC33-dependent upregulated	B3galt5	B3GALT5
+LRRC33-dependent	LRRC33-dependent upregulated	Khdrbs3	KHDRBS3
+LRRC33-dependent	LRRC33-dependent upregulated	Tnf	TNF
+LRRC33-dependent	LRRC33-dependent upregulated	Myl2	MYL2
+LRRC33-dependent	LRRC33-dependent upregulated	Dusp2	DUSP2
+LRRC33-dependent	LRRC33-dependent upregulated	Orai2	ORAI2
+LRRC33-dependent	LRRC33-dependent upregulated	Icam1	ICAM1
+LRRC33-dependent	LRRC33-dependent upregulated	Tspan7	TSPAN7
+LRRC33-dependent	LRRC33-dependent upregulated	Dennd4a	DENND4A
+LRRC33-dependent	LRRC33-dependent upregulated	Pag1	PAG1
+LRRC33-dependent	LRRC33-dependent upregulated	Clcf1	CLCF1
+LRRC33-dependent	LRRC33-dependent upregulated	Rras2	RRAS2
+LRRC33-dependent	LRRC33-dependent upregulated	Socs3	SOCS3
+LRRC33-dependent	LRRC33-dependent upregulated	Mlxipl	MLXIPL
+LRRC33-dependent	LRRC33-dependent upregulated	Insig1	INSIG1
+LRRC33-dependent	LRRC33-dependent upregulated	Rab27a	RAB27A
+LRRC33-dependent	LRRC33-dependent upregulated	Mlph	MLPH
+LRRC33-dependent	LRRC33-dependent upregulated	Rilpl1	RILPL1
+LRRC33-dependent	LRRC33-dependent upregulated	Hspb3	HSPB3
+LRRC33-dependent	LRRC33-dependent upregulated	Nupr1	NUPR1
+LRRC33-dependent	LRRC33-dependent upregulated	Akt3	AKT3
+LRRC33-dependent	LRRC33-dependent upregulated	Arhgap24	ARHGAP24
+LRRC33-dependent	LRRC33-dependent upregulated	Il1a	IL1A
+LRRC33-dependent	LRRC33-dependent upregulated	Lhfpl2	LHFPL2
+LRRC33-dependent	LRRC33-dependent upregulated	Tspan18	TSPAN18
+LRRC33-dependent	LRRC33-dependent upregulated	Prkce	PRKCE
+LRRC33-dependent	LRRC33-dependent upregulated	Serpine1	SERPINE1
+LRRC33-dependent	LRRC33-dependent upregulated	Gm996	GM996
+LRRC33-dependent	LRRC33-dependent upregulated	Bhlhe41	BHLHE41
+LRRC33-dependent	LRRC33-dependent upregulated	Cdk5r1	CDK5R1
+LRRC33-dependent	LRRC33-dependent upregulated	Ldhb	LDHB
+LRRC33-dependent	LRRC33-dependent upregulated	Ubash3b	UBASH3B
+LRRC33-dependent	LRRC33-dependent upregulated	Kcnma1	KCNMA1
+LRRC33-dependent	LRRC33-dependent upregulated	Siglecf	SIGLECF
+LRRC33-dependent	LRRC33-dependent upregulated	Olfml2b	OLFML2B
+LRRC33-dependent	LRRC33-dependent upregulated	Padi2	PADI2
+LRRC33-dependent	LRRC33-dependent upregulated	Adamts1	ADAMTS1
+LRRC33-dependent	LRRC33-dependent upregulated	Jam2	JAM2
+LRRC33-dependent	LRRC33-dependent upregulated	H2-oa	H2-OA
+LRRC33-dependent	LRRC33-dependent upregulated	Eng	ENG
+LRRC33-dependent	LRRC33-dependent upregulated	Samd7	SAMD7
+LRRC33-dependent	LRRC33-dependent upregulated	Dyrk4	DYRK4
+LRRC33-dependent	LRRC33-dependent upregulated	Gpr84	GPR84
+LRRC33-dependent	LRRC33-dependent upregulated	Rab3Ip	RAB3IP
+LRRC33-dependent	LRRC33-dependent upregulated	Zeb1	ZEB1
+LRRC33-dependent	LRRC33-dependent upregulated	Chst11	CHST11
+LRRC33-dependent	LRRC33-dependent upregulated	Mical3	MICAL3
+LRRC33-dependent	LRRC33-dependent upregulated	Camk2n1	CAMK2N1
+LRRC33-dependent	LRRC33-dependent upregulated	Csrnp1	CSRNP1
+LRRC33-dependent	LRRC33-dependent downregulated	Ddx60	DDX60
+LRRC33-dependent	LRRC33-dependent downregulated	Fam118a	FAM118A
+LRRC33-dependent	LRRC33-dependent downregulated	Stk17b	STK17B
+LRRC33-dependent	LRRC33-dependent downregulated	Il10	IL10
+LRRC33-dependent	LRRC33-dependent downregulated	Siglec1	SIGLEC1
+LRRC33-dependent	LRRC33-dependent downregulated	Ifit1	IFIT1
+LRRC33-dependent	LRRC33-dependent downregulated	Oasl2	OASL2
+LRRC33-dependent	LRRC33-dependent downregulated	Zbp1	ZBP1
+LRRC33-dependent	LRRC33-dependent downregulated	Pde7b	PDE7B
+LRRC33-dependent	LRRC33-dependent downregulated	Trim25	TRIM25
+LRRC33-dependent	LRRC33-dependent downregulated	Oas2	OAS2
+LRRC33-dependent	LRRC33-dependent downregulated	Slfn5	SLFN5
+LRRC33-dependent	LRRC33-dependent downregulated	Ms4a4c	MS4A4C
+LRRC33-dependent	LRRC33-dependent downregulated	Ifitm3	IFITM3
+LRRC33-dependent	LRRC33-dependent downregulated	Rsad2	RSAD2
+LRRC33-dependent	LRRC33-dependent downregulated	Nusap1	NUSAP1
+LRRC33-dependent	LRRC33-dependent downregulated	Kif11	KIF11
+LRRC33-dependent	LRRC33-dependent downregulated	Hmmr	HMMR
+LRRC33-dependent	LRRC33-dependent downregulated	Top2a	TOP2A
+LRRC33-dependent	LRRC33-dependent downregulated	Prc1	PRC1
+LRRC33-dependent	LRRC33-dependent downregulated	Tpx2	TPX2
+LRRC33-dependent	LRRC33-dependent downregulated	Mki67	MKI67
+LRRC33-dependent	LRRC33-dependent downregulated	Pltp	PLTP
+LRRC33-dependent	LRRC33-dependent downregulated	App	APP
+LRRC33-dependent	LRRC33-dependent downregulated	Cenpe	CENPE
+LRRC33-dependent	LRRC33-dependent downregulated	Cyr61	CYR61
+LRRC33-dependent	LRRC33-dependent downregulated	Mis18bp1	MIS18BP1
+LRRC33-dependent	LRRC33-dependent downregulated	Anln	ANLN
+LRRC33-dependent	LRRC33-dependent downregulated	Asgr2	ASGR2
+LRRC33-dependent	LRRC33-dependent downregulated	Sema4a	SEMA4A
+LRRC33-dependent	LRRC33-dependent downregulated	Tmod1	TMOD1
+LRRC33-dependent	LRRC33-dependent downregulated	Sdc3	SDC3
+LRRC33-dependent	LRRC33-dependent downregulated	Zdhhc23	ZDHHC23
+LRRC33-dependent	LRRC33-dependent downregulated	P2rx4	P2RX4
+LRRC33-dependent	LRRC33-dependent downregulated	Gdpd1	GDPD1
+LRRC33-dependent	LRRC33-dependent downregulated	Ifitm1	IFITM1
+LRRC33-dependent	LRRC33-dependent downregulated	Hip1	HIP1
+LRRC33-dependent	LRRC33-dependent downregulated	Pde7a	PDE7A
+LRRC33-dependent	LRRC33-dependent downregulated	Rab7b	RAB7B
+LRRC33-dependent	LRRC33-dependent downregulated	Rftn1	RFTN1
+LRRC33-dependent	LRRC33-dependent downregulated	Cd72	CD72
+LRRC33-dependent	LRRC33-dependent downregulated	Vnn3	VNN3
+LRRC33-dependent	LRRC33-dependent downregulated	Pxdc1	PXDC1
+LRRC33-dependent	LRRC33-dependent downregulated	Vcam1	VCAM1
+LRRC33-dependent	LRRC33-dependent downregulated	Man2a1	MAN2A1
+LRRC33-dependent	LRRC33-dependent downregulated	Ms4a6c	MS4A6C
+LRRC33-dependent	LRRC33-dependent downregulated	Acp5	ACP5
+LRRC33-dependent	LRRC33-dependent downregulated	Zwilch	ZWILCH
+LRRC33-dependent	LRRC33-dependent downregulated	Sh3pxd2b	SH3PXD2B
+LRRC33-dependent	LRRC33-dependent downregulated	Blvrb	BLVRB
+LRRC33-dependent	LRRC33-dependent downregulated	Cpne2	CPNE2
+LRRC33-dependent	LRRC33-dependent downregulated	Knl1	KNL1
+LRRC33-dependent	LRRC33-dependent downregulated	Ccna2	CCNA2
+LRRC33-dependent	LRRC33-dependent downregulated	Foxred2	FOXRED2
+LRRC33-dependent	LRRC33-dependent downregulated	Gpx3	GPX3
+LRRC33-dependent	LRRC33-dependent downregulated	Bmp2	BMP2
+LRRC33-dependent	LRRC33-dependent downregulated	Nxpe5	NXPE5
+LRRC33-dependent	LRRC33-dependent downregulated	Pigz	PIGZ
+LRRC33-dependent	LRRC33-dependent downregulated	Spats2l	SPATS2L
+LRRC33-dependent	LRRC33-dependent downregulated	Gramd1b	GRAMD1B
+LRRC33-dependent	LRRC33-dependent downregulated	Maoa	MAOA
+LRRC33-dependent	LRRC33-dependent downregulated	Spic	SPIC
+LRRC33-dependent	LRRC33-dependent downregulated	Fam49a	FAM49A
+LRRC33-dependent	LRRC33-dependent downregulated	Nceh1	NCEH1
+LRRC33-dependent	LRRC33-dependent downregulated	Dse	DSE
+LRRC33-dependent	LRRC33-dependent downregulated	Galc	GALC
+LRRC33-dependent	LRRC33-dependent downregulated	Clec4a1	CLEC4A1
+LRRC33-dependent	LRRC33-dependent downregulated	Ccl12	CCL12
+LRRC33-dependent	LRRC33-dependent downregulated	Pf4	PF4
+LRRC33-dependent	LRRC33-dependent downregulated	Clec12a	CLEC12A
+LRRC33-dependent	LRRC33-dependent downregulated	Clec4n	CLEC4N
+LRRC33-dependent	LRRC33-dependent downregulated	Cmah	CMAH
+LRRC33-dependent	LRRC33-dependent downregulated	Nrap	NRAP
+LRRC33-dependent	LRRC33-dependent downregulated	Sema6d	SEMA6D
+LRRC33-dependent	LRRC33-dependent downregulated	Serpinb8	SERPINB8
+LRRC33-dependent	LRRC33-dependent downregulated	Col14a1	COL14A1
+LRRC33-dependent	LRRC33-dependent downregulated	Mpp1	MPP1
+LRRC33-dependent	LRRC33-dependent downregulated	Dnase1l1	DNASE1L1
+LRRC33-dependent	LRRC33-dependent downregulated	Cenpa	CENPA
+LRRC33-dependent	LRRC33-dependent downregulated	Igf1	IGF1
+LRRC33-dependent	LRRC33-dependent downregulated	Ahr	AHR
+LRRC33-dependent	LRRC33-dependent downregulated	Slc14a1	SLC14A1
+LRRC33-dependent	LRRC33-dependent downregulated	Slc26a11	SLC26A11
+LRRC33-dependent	LRRC33-dependent downregulated	Plxnd1	PLXND1
+LRRC33-dependent	LRRC33-dependent downregulated	Rasgrp1	RASGRP1
+LRRC33-dependent	LRRC33-dependent downregulated	Trps1	TRPS1
+LRRC33-dependent	LRRC33-dependent downregulated	Tfec	TFEC
+LRRC33-dependent	LRRC33-dependent downregulated	Epor	EPOR
+LRRC33-dependent	LRRC33-dependent downregulated	Cd48	CD48
+LRRC33-dependent	LRRC33-dependent downregulated	Cpne8	CPNE8
+LRRC33-dependent	LRRC33-dependent downregulated	Stom	STOM
+LRRC33-dependent	LRRC33-dependent downregulated	Ab124611	AB124611
+LRRC33-dependent	LRRC33-dependent downregulated	Plxnc1	PLXNC1
+LRRC33-dependent	LRRC33-dependent downregulated	Prune2	PRUNE2
+LRRC33-dependent	LRRC33-dependent downregulated	Cxcl16	CXCL16
+LRRC33-dependent	LRRC33-dependent downregulated	Racgap1	RACGAP1
+LRRC33-dependent	LRRC33-dependent downregulated	Slamf9	SLAMF9
+LRRC33-dependent	LRRC33-dependent downregulated	Gdpd5	GDPD5
+LRRC33-dependent	LRRC33-dependent downregulated	Fam234a	FAM234A
+LRRC33-dependent	LRRC33-dependent downregulated	Gsn	GSN
+LRRC33-dependent	LRRC33-dependent downregulated	Bub1	BUB1
+LRRC33-dependent	LRRC33-dependent downregulated	Cbr2	CBR2
+LRRC33-dependent	LRRC33-dependent downregulated	Sulf2	SULF2
+LRRC33-dependent	LRRC33-dependent downregulated	Tgfbi	TGFBI
+LRRC33-dependent	LRRC33-dependent downregulated	Adam33	ADAM33
+LRRC33-dependent	LRRC33-dependent downregulated	Arhgef3	ARHGEF3
+LRRC33-dependent	LRRC33-dependent downregulated	Abcg3	ABCG3
+LRRC33-dependent	LRRC33-dependent downregulated	Dnase1l3	DNASE1L3
+LRRC33-dependent	LRRC33-dependent downregulated	Kif23	KIF23
+LRRC33-dependent	LRRC33-dependent downregulated	Cd4	CD4
+LRRC33-dependent	LRRC33-dependent downregulated	Cyp27a1	CYP27A1
+LRRC33-dependent	LRRC33-dependent downregulated	Plekhg3	PLEKHG3
+LRRC33-dependent	LRRC33-dependent downregulated	Reps2	REPS2
+LRRC33-dependent	LRRC33-dependent downregulated	F13a1	F13A1
+LRRC33-dependent	LRRC33-dependent downregulated	Tmem8	TMEM8
+LRRC33-dependent	LRRC33-dependent downregulated	Cyb5r1	CYB5R1
+LRRC33-dependent	LRRC33-dependent downregulated	2610507b11rik	2610507B11RIK
+LRRC33-dependent	LRRC33-dependent downregulated	Itsn1	ITSN1
+LRRC33-dependent	LRRC33-dependent downregulated	Cd300ld	CD300LD
+LRRC33-dependent	LRRC33-dependent downregulated	Fxyd5	FXYD5
+LRRC33-dependent	LRRC33-dependent downregulated	B3gnt8	B3GNT8
+LRRC33-dependent	LRRC33-dependent downregulated	Myo5a	MYO5A
+LRRC33-dependent	LRRC33-dependent downregulated	Stab1	STAB1
+LRRC33-dependent	LRRC33-dependent downregulated	Rara	RARA
+LRRC33-dependent	LRRC33-dependent downregulated	Sash1	SASH1
+LRRC33-dependent	LRRC33-dependent downregulated	Mrc1	MRC1
+LRRC33-dependent	LRRC33-dependent downregulated	Rnf150	RNF150
+LRRC33-dependent	LRRC33-dependent downregulated	Pparg	PPARG
+LRRC33-dependent	LRRC33-dependent downregulated	Ptpn22	PTPN22
+LRRC33-dependent	LRRC33-dependent downregulated	Itgal	ITGAL
+LRRC33-dependent	LRRC33-dependent downregulated	Tmem106a	TMEM106A
+LRRC33-dependent	LRRC33-dependent downregulated	Hacd4	HACD4
+LRRC33-dependent	LRRC33-dependent downregulated	Anxa5	ANXA5
+LRRC33-dependent	LRRC33-dependent downregulated	Aoah	AOAH
+LRRC33-dependent	LRRC33-dependent downregulated	Cd163	CD163
+LRRC33-dependent	LRRC33-dependent downregulated	Msr1	MSR1
+LRRC33-dependent	LRRC33-dependent downregulated	Dab2	DAB2
+LRRC33-dependent	LRRC33-dependent downregulated	Gpr65	GPR65
+LRRC33-dependent	LRRC33-dependent downregulated	Fap	FAP
+LRRC33-dependent	LRRC33-dependent downregulated	Cybb	CYBB
+LRRC33-dependent	LRRC33-dependent downregulated	Slit1	SLIT1
+LRRC33-dependent	LRRC33-dependent downregulated	Axl	AXL
+LRRC33-dependent	LRRC33-dependent downregulated	Pla2g7	PLA2G7
+LRRC33-dependent	LRRC33-dependent downregulated	Cd38	CD38
+LRRC33-dependent	LRRC33-dependent downregulated	Marveld1	MARVELD1
+LRRC33-dependent	LRRC33-dependent downregulated	Enpp4	ENPP4
+LRRC33-dependent	LRRC33-dependent downregulated	Ms4a6b	MS4A6B
+LRRC33-dependent	LRRC33-dependent downregulated	C2	C2
+LRRC33-dependent	LRRC33-dependent downregulated	Pde8a	PDE8A
+LRRC33-dependent	LRRC33-dependent downregulated	Tlr8	TLR8
+LRRC33-dependent	LRRC33-dependent downregulated	Mmp13	MMP13
+LRRC33-dependent	LRRC33-dependent downregulated	Fgl2	FGL2
+LRRC33-dependent	LRRC33-dependent downregulated	Cd22	CD22
+LRRC33-dependent	LRRC33-dependent downregulated	Itga4	ITGA4
+LRRC33-dependent	LRRC33-dependent downregulated	Ptger4	PTGER4
+LRRC33-dependent	LRRC33-dependent downregulated	Retnla	RETNLA
+LRRC33-dependent	LRRC33-dependent downregulated	Mdfic	MDFIC
+LRRC33-dependent	LRRC33-dependent downregulated	Slc25a24	SLC25A24
+LRRC33-dependent	LRRC33-dependent downregulated	Wfdc17	WFDC17
+LRRC33-dependent	LRRC33-dependent downregulated	Psd3	PSD3
+LRRC33-dependent	LRRC33-dependent downregulated	Serpinb6a	SERPINB6A
+LRRC33-dependent	LRRC33-dependent downregulated	Aspa	ASPA
+LRRC33-dependent	LRRC33-dependent downregulated	Prim1	PRIM1
+LRRC33-dependent	LRRC33-dependent downregulated	Tmem51	TMEM51
+LRRC33-dependent	LRRC33-dependent downregulated	Plk2	PLK2
+LRRC33-dependent	LRRC33-dependent downregulated	Arhgap10	ARHGAP10
+LRRC33-dependent	LRRC33-dependent downregulated	Hgf	HGF
+LRRC33-dependent	LRRC33-dependent downregulated	Pola1	POLA1
+LRRC33-dependent	LRRC33-dependent downregulated	Fam129a	FAM129A
+LRRC33-dependent	LRRC33-dependent downregulated	Plbd1	PLBD1
+LRRC33-dependent	LRRC33-dependent downregulated	Ch25h	CH25H
+LRRC33-dependent	LRRC33-dependent downregulated	Ccl7	CCL7
+LRRC33-dependent	LRRC33-dependent downregulated	Cd36	CD36
+LRRC33-dependent	LRRC33-dependent downregulated	Hist1h2bk	HIST1H2BK
+LRRC33-dependent	LRRC33-dependent downregulated	Nfxl1	NFXL1
+LRRC33-dependent	LRRC33-dependent downregulated	Tnfsf18	TNFSF18
+LRRC33-dependent	LRRC33-dependent downregulated	Dok2	DOK2
+LRRC33-dependent	LRRC33-dependent downregulated	St8sia4	ST8SIA4
+LRRC33-dependent	LRRC33-dependent downregulated	Dram1	DRAM1
+LRRC33-dependent	LRRC33-dependent downregulated	Thbd	THBD
+LRRC33-dependent	LRRC33-dependent downregulated	Apobec1	APOBEC1
+LRRC33-dependent	LRRC33-dependent downregulated	Samd4	SAMD4
+LRRC33-dependent	LRRC33-dependent downregulated	Frmd6	FRMD6
+LRRC33-dependent	LRRC33-dependent downregulated	Angptl7	ANGPTL7
+LRRC33-dependent	LRRC33-dependent downregulated	Hist1h2ab	HIST1H2AB
+LRRC33-dependent	LRRC33-dependent downregulated	Rnase2a	RNASE2A
+LRRC33-dependent	LRRC33-dependent downregulated	Slc15a2	SLC15A2
+LRRC33-dependent	LRRC33-dependent downregulated	Sorbs3	SORBS3
+LRRC33-dependent	LRRC33-dependent downregulated	Creb5	CREB5
+LRRC33-dependent	LRRC33-dependent downregulated	Stil	STIL

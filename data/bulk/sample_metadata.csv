@@ -1,0 +1,16 @@
+id,sex,strain,condition,genotype
+s_G_1,F,WT,noKO,WT
+s_G_2,M,WT,noKO,WT
+s_G_3,M,WT,noKO,WT
+s_G_4,F,WT,noKO,WT
+s_H_1,M,WT,KO,KO
+s_H_2,M,WT,KO,KO
+s_H_3,F,WT,KO,KO
+s_H_4,M,WT,KO,KO
+s_I_1,M,5xFAD,noKO,5x
+s_I_2,M,5xFAD,noKO,5x
+s_I_3,M,5xFAD,noKO,5x
+s_I_4,F,5xFAD,noKO,5x
+s_J_1,M,5xFAD,KO,5x_KO
+s_J_2,M,5xFAD,KO,5x_KO
+s_J_4,M,5xFAD,KO,5x_KO
